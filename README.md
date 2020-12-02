@@ -1,4 +1,4 @@
-# Basic-html-Codeacademy
+# Basic-html-CodeAcademy
 Course 01
 
 <body>
